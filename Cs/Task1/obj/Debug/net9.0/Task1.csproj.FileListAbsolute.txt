@@ -1,0 +1,14 @@
+C:\Users\Simka\Documents\GitHub\Cs\Task1\bin\Debug\net9.0\Task1.exe
+C:\Users\Simka\Documents\GitHub\Cs\Task1\bin\Debug\net9.0\Task1.deps.json
+C:\Users\Simka\Documents\GitHub\Cs\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+C:\Users\Simka\Documents\GitHub\Cs\Task1\bin\Debug\net9.0\Task1.dll
+C:\Users\Simka\Documents\GitHub\Cs\Task1\bin\Debug\net9.0\Task1.pdb
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\Task1.dll
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\refint\Task1.dll
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\Task1.pdb
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+C:\Users\Simka\Documents\GitHub\Cs\Task1\obj\Debug\net9.0\ref\Task1.dll
