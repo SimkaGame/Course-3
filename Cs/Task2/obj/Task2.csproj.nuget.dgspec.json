@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simka\\Documents\\GitHub\\Cs\\Task2\\Task2.csproj": {}
+    "C:\\Users\\Simka\\Documents\\GitHub\\Course-3\\Cs\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simka\\Documents\\GitHub\\Cs\\Task2\\Task2.csproj": {
+    "C:\\Users\\Simka\\Documents\\GitHub\\Course-3\\Cs\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simka\\Documents\\GitHub\\Cs\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Users\\Simka\\Documents\\GitHub\\Course-3\\Cs\\Task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Users\\Simka\\Documents\\GitHub\\Cs\\Task2\\Task2.csproj",
+        "projectPath": "C:\\Users\\Simka\\Documents\\GitHub\\Course-3\\Cs\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Simka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simka\\Documents\\GitHub\\Cs\\Task2\\obj\\",
+        "outputPath": "C:\\Users\\Simka\\Documents\\GitHub\\Course-3\\Cs\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simka\\AppData\\Roaming\\NuGet\\NuGet.Config"
