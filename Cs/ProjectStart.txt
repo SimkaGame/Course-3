@@ -1,0 +1,5 @@
+dotnet new sln
+dotnet new console --name=Task
+dotnet sln add Task
+dotnet build
+dotnet run

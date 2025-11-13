@@ -1,0 +1,15 @@
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\bin\Debug\net9.0\Task8.exe
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\bin\Debug\net9.0\Task8.deps.json
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\bin\Debug\net9.0\Task8.runtimeconfig.json
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\bin\Debug\net9.0\Task8.dll
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\bin\Debug\net9.0\Task8.pdb
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\Task8.AssemblyInfoInputs.cache
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\Task8.AssemblyInfo.cs
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\Task8.csproj.CoreCompileInputs.cache
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\Task8.sourcelink.json
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\Task8.dll
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\refint\Task8.dll
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\Task8.pdb
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\Task8.genruntimeconfig.cache
+C:\Users\Simka\Documents\GitHub\Course-3\Cs\Task8\obj\Debug\net9.0\ref\Task8.dll
