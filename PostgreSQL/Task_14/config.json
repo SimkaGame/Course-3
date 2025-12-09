@@ -1,0 +1,13 @@
+{
+  "db_config": {
+    "dbname": "myapp_db",
+    "user": "admin",
+    "password": "secret",
+    "host": "localhost",
+    "port": "5432"
+  },
+  "test_values": {
+    "author": "автор42",
+    "substring": "a1b2c3"
+  }
+}
